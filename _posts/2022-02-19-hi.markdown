@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Hi!"
+date: 2022-02-19 12:51:00 -0300
+categories: greetings
+---
+
+Hello!
+
+My name is DemonicSavage.
+
+Sometimes I code things that I might want to showcase in this page.
+
+I might post stuff, or I might not.
+
+We'll see.
+
+You can contact me on reddit, if you wish. [/u/DemonicSavage](https://www.reddit.com/u/DemonicSavage)
