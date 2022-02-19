@@ -2,7 +2,7 @@
 layout: post
 title: "Hi!"
 date: 2022-02-19 12:51:00 -0300
-categories: greetings
+categories: blog
 ---
 
 Hello!
