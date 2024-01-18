@@ -9,4 +9,4 @@ I have made a really small and simple one-function library to help me benchmark 
 
 It may be simply a decorator that tracks the time it takes to run a function, although there are a few cool (but very specific) features such as cumulative benchmarking.
 
-This lives now as DSBench, you can find it in my GitHub or by clicking [here](dsbench).
+This lives now as DSBench, you can find it in my GitHub or by clicking [here](/dsbench).
