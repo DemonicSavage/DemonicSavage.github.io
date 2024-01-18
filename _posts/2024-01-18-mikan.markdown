@@ -1,0 +1,18 @@
+---
+layout: post
+title: "SIFAS Card Downloader is now Mikan!"
+date: 2024-01-18 11:06:00 -0300
+categories: software
+---
+
+SIFAS Card Downloader is dead, long live Mikan!
+
+This is a very belated announcement, as Mikan has been the tool's name for months.
+
+The name just didn't make sense anymore after it got support for SIF2 and various other idol-ish Gacha games.
+
+Mikan is a reference to Chika Takami, who is one of my favorite Aqours characters. It is also a short, memorable and easy to pronounce name.
+
+For PyPI reasons, the name of the package you install is `mikan-card-downloader`, but the executable is `mikan` (and so is the Python module).
+
+There are more features in the recent versions and more are planned.
