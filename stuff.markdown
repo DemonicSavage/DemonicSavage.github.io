@@ -4,6 +4,10 @@ title: Stuff
 permalink: /stuff/
 ---
 
-[SIFAS Card Downloader](https://www.github.com/demonicsavage/sifas_card_downloader)
+[Mikan](https://www.github.com/demonicsavage/mikan)
 
-A WIP card downloader, organizer and updater for idol.st. Tested on Linux only, probably won't work on Windows, might work on macOS.
+Mikan automatically downloads cards from various idol or idol-adjacent gacha mobile games.
+
+[DSBench](https://www.github.com/demonicsavage/dsbench)
+
+This small library provides a decorator function that benchmarks functions.
