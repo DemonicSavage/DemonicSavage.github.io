@@ -4,7 +4,7 @@ title: Stuff
 permalink: /stuff/
 ---
 
-[Mikan](https://www.github.com/demonicsavage/mikan)
+[Mikan](/mikan)
 
 Mikan automatically downloads cards from various idol or idol-adjacent gacha mobile games.
 
