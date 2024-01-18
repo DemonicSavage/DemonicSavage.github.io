@@ -8,6 +8,6 @@ permalink: /stuff/
 
 Mikan automatically downloads cards from various idol or idol-adjacent gacha mobile games.
 
-[DSBench](https://www.github.com/demonicsavage/dsbench)
+[DSBench](/dsbench)
 
 This small library provides a decorator function that benchmarks functions.
