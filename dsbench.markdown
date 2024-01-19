@@ -45,6 +45,11 @@ Decorator function for benchmarking other functions.
 - **Return type:**
   function
 
+## License
+
+This software is released under the Apache 2.0 license.
+
 # Links
 
-[PyPI](https://pypi.org/project/dsbench/) | [GitHub](https://github.com/DemonicSavage/dsbench)
+- [PyPI](https://pypi.org/project/dsbench/)
+- [GitHub](https://github.com/DemonicSavage/dsbench)
