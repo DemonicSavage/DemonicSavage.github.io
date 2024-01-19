@@ -54,3 +54,8 @@ plugins:
 
 minima:
   skin: dark
+
+header_pages:
+  - about.markdown
+  - mikan.markdown
+  - dsbench.markdown
