@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: DemonicSavage's website
 ---
 
-These are some of my projects:
+# Stuff that I made
 
 |[Mikan](/mikan)|Mikan automatically downloads cards from various idol or idol-adjacent gacha mobile games.|
 |[DSBench](/dsbench)|This small library provides a decorator function that benchmarks functions.|
