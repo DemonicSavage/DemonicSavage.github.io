@@ -54,6 +54,9 @@ plugins:
 
 minima:
   skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/demonicsavage" }
+    - { platform: twitter, user_url: "https://twitter.com/demonic_savage_" }
 
 header_pages:
   - about.markdown
