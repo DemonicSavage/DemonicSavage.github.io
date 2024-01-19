@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I make stuff on the internet sometimes. Mostly software development.
+I do stuff on the internet sometimes. Mostly software development.
 
 He/they.
 
