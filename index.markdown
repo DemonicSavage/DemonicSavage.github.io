@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: DemonicSavage's website
 ---
+
+## My stuff
 
 [Mikan](/mikan)
 
