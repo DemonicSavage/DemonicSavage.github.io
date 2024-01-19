@@ -53,7 +53,7 @@ plugins:
 #   - vendor/ruby/
 
 minima:
-  skin: solarized-dark
+  skin: dark
 
 header_pages:
   - about.markdown
