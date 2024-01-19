@@ -59,6 +59,6 @@ minima:
     - { platform: twitter, user_url: "https://twitter.com/demonic_savage_" }
 
 header_pages:
-  - about.markdown
   - mikan.markdown
   - dsbench.markdown
+  - contact.markdown

@@ -6,7 +6,11 @@ layout: home
 title: DemonicSavage's website
 ---
 
-## Stuff that I made
+I make stuff on the internet sometimes. Mostly software development.
+
+He/they.
+
+## Stuff I made
 
 |[Mikan](/mikan)|Mikan automatically downloads cards from various idol or idol-adjacent gacha mobile games.|
 |[DSBench](/dsbench)|This small Python library provides a decorator function that benchmarks functions.|
