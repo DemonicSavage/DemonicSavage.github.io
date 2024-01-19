@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DSBench
-permalink: /dsbench/
+permalink: /projects/dsbench/
 ---
 
 # DSBench
