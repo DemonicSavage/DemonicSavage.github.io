@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: DemonicSavage's website
 ---
 
 I make stuff on the internet sometimes. Mostly software development.
