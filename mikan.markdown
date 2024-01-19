@@ -4,8 +4,6 @@ title: Mikan
 permalink: /projects/mikan/
 ---
 
-# Mikan
-
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DemonicSavage_sifas_card_downloader&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DemonicSavage_sifas_card_downloader)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=DemonicSavage_sifas_card_downloader&metric=coverage)](https://sonarcloud.io/summary/new_code?id=DemonicSavage_sifas_card_downloader)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=DemonicSavage_sifas_card_downloader&metric=bugs)](https://sonarcloud.io/summary/new_code?id=DemonicSavage_sifas_card_downloader)

@@ -4,8 +4,6 @@ title: DSBench
 permalink: /projects/dsbench/
 ---
 
-# DSBench
-
 This small library provides a decorator function that benchmarks functions.
 
 # Installation
