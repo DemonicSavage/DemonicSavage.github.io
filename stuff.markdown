@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stuff
-permalink: /stuff/
+title: DSBench
+permalink: /dsbench/
 ---
 
 [Mikan](/mikan)
