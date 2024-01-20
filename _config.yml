@@ -62,9 +62,3 @@ header_pages:
   - mikan.markdown
   - dsbench.markdown
   - contact.markdown
-
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      wrapped: true

@@ -6,5 +6,4 @@ width: 1280
 height: 740
 url: https://demonicsavage.itch.io/replacementcharacter
 permalink: /projects/replacementcharacter/
-wrapped: false
 ---
