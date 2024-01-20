@@ -2,13 +2,6 @@
 #
 ---
 
-@import "minima/initialize";
-
 .unwrapped {
   max-width: none !important;
-  @media screen and (min-width: $on-large) {
-    max-width: none;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-  }
 }
