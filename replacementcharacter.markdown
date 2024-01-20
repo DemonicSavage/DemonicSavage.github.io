@@ -15,3 +15,27 @@ wide: true
       >Play ������� on itch.io</a
     ></iframe
   >
+
+<br/>
+
+Puzzle game by Team Chimia made as a submission for [Mini Jam 149: Ancient](https://itch.io/jam/mini-jam-149-ancient).
+
+## Instructions
+
+WASD to move
+
+Left click to horizontally move avatars
+
+Right click to vertically move avatars
+
+Space to jump
+
+Press R to restart level
+
+Green menu button = start game
+
+Yellow menu button = continue game
+
+## Download
+
+Windows, Linux and macOS binaries can be downloaded in the game's [itch.io page](https://demonicsavage.itch.io/replacementcharacter).
