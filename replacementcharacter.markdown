@@ -1,6 +1,6 @@
 ---
 layout: game-embed
-title: ������� AYY
+title: �������
 src: https://itch.io/embed-upload/9454470?color=181818
 width: 1280
 height: 740
