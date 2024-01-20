@@ -16,6 +16,6 @@ He/they.
 
 ## Stuff I made with others
 
-|[�������](https://demonicsavage.itch.io/replacementcharacter)|Puzzle game by Team Chimia made as a submission for [Mini Jam 149: Ancient](https://itch.io/jam/mini-jam-149-ancient).|
+|[�������](/projects/replacementcharacter)|Puzzle game by Team Chimia made as a submission for [Mini Jam 149: Ancient](https://itch.io/jam/mini-jam-149-ancient).|
 
 ## Blog
