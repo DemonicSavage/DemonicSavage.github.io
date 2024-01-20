@@ -18,4 +18,6 @@ He/they.
 
 |[�������](https://demonicsavage.itch.io/replacementcharacter)|Puzzle game by Team Chimia made as a submission for [Mini Jam 149: Ancient](https://itch.io/jam/mini-jam-149-ancient).|
 
+<iframe src="https://itch.io/embed/2456115" width="552" height="167" frameborder="0"><a href="https://demonicsavage.itch.io/replacementcharacter">������� by demonicsavage, AnnaRoesch, pgrossmann, Drovak</a></iframe>
+
 ## Blog
