@@ -7,18 +7,16 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="game_embed">
-    <iframe
-      frameborder="0"
-      src="{{ page.src }}"
-      allowfullscreen=""
-      width="{{ page.width }}"
-      height="{{ page.height }}"
-      ><a href="{{page.url}}"
-        >Play {{ page.title | escape }} on itch.io</a
-      ></iframe
-    >
-  </div>
+  <iframe
+    frameborder="0"
+    src="{{ page.src }}"
+    allowfullscreen=""
+    width="{{ page.width }}"
+    height="{{ page.height }}"
+    ><a href="{{page.url}}"
+      >Play {{ page.title | escape }} on itch.io</a
+    ></iframe
+  >
 
   <div class="post-content">{{ content }}</div>
 </article>
