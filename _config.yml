@@ -63,3 +63,9 @@ header_pages:
   - mikan.markdown
   - dsbench.markdown
   - contact.markdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      wide: false

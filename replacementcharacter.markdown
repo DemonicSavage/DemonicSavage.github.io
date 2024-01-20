@@ -1,9 +1,17 @@
 ---
-layout: game-embed
+layout: page
 title: �������
-src: https://itch.io/embed-upload/9454470?color=181818
-width: 1280
-height: 740
-url: https://demonicsavage.itch.io/replacementcharacter
 permalink: /projects/replacementcharacter/
+wide: true
 ---
+
+  <iframe
+    frameborder="0"
+    src="https://itch.io/embed-upload/9454470?color=181818"
+    allowfullscreen=""
+    width="1280"
+    height="740"
+    ><a href="https://demonicsavage.itch.io/replacementcharacter"
+      >Play ������� on itch.io</a
+    ></iframe
+  >

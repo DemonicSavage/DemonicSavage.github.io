@@ -1,0 +1,10 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+.wide-wrapper {
+  @extend .wrapper;
+  max-width: fit-content;
+}
