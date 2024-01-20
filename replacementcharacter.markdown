@@ -12,5 +12,4 @@ permalink: /projects/replacementcharacter/
   height="740"
   ><a href="https://demonicsavage.itch.io/replacementcharacter"
     >Play ������� on itch.io</a
-  ></iframe
->
+  ></iframe>
