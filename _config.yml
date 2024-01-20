@@ -28,7 +28,7 @@ twitter_username: demonic_savage_
 github_username: DemonicSavage
 
 # Build settings
-remote-theme: jekyll/minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
