@@ -13,6 +13,9 @@ He/they.
 
 |[Mikan](/projects/mikan)|Software that automatically downloads cards from various idol or idol-adjacent gacha mobile games.|
 |[DSBench](/projects/dsbench)|Small Python library that provides a decorator function which benchmarks functions.|
+
+## Stuff I made with others
+
 |[�������](https://demonicsavage.itch.io/replacementcharacter)|Puzzle game by Team Chimia made as a submission for [Mini Jam 149: Ancient](https://itch.io/jam/mini-jam-149-ancient).|
 
 ## Blog
