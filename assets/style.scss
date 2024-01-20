@@ -3,6 +3,8 @@
 ---
 
 .unwrapped {
-  @extend .wrapper;
   max-width: 1360px;
+  @media screen and (min-width: 0px) {
+    max-width: 1360px;
+  }
 }
