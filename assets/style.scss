@@ -3,5 +3,5 @@
 ---
 
 .game_embed {
-  max-width: calc(1360px - (#{$spacing-unit}));
+  max-width: fit-content;
 }
