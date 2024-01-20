@@ -4,6 +4,8 @@
 
 .unwrapped {
   max-width: 1360px;
+  margin-right: auto;
+  margin-left: auto;
   @media screen and (min-width: 0px) {
     max-width: 1360px;
   }
