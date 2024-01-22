@@ -2,7 +2,9 @@
 layout: page
 title: �������
 permalink: /projects/replacementcharacter/
+comment: "Puzzle game by Team Chimia made as a submission for <a href=\"https://itch.io/jam/mini-jam-149-ancient\">Mini Jam 149: Ancient</a>."
 wide: true
+made: false
 ---
 
   <iframe
