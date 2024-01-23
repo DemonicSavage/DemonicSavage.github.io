@@ -1,0 +1,10 @@
+    <table>
+    {% for item in site.pages %}
+    {% if item.comment and item.made == false %}
+    <tr>
+        <td><a href="{{item.permalink}}">{{item.title}}</a></td>
+        <td>{{item.comment}}</td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+    </table>
