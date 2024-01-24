@@ -45,11 +45,10 @@
     color: $text-color;
     line-height: $base-line-height;
     display: block;
-
   }
 
   .dropdown-link {
-    color: $table-text-color !important;
+    color: $link-hover-color !important;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
