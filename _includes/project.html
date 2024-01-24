@@ -1,6 +1,6 @@
 <table>
     {% for item in site.pages %}
-    {% if item.comment and item.made %}
+    {% if item.is_project and item.with_others == false %}
     <tr>
         <td><a href="{{item.permalink}}">{{item.title}}</a></td>
         <td>{{item.comment}}</td>

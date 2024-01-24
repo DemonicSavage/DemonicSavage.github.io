@@ -3,7 +3,8 @@ layout: page
 title: DSBench
 permalink: /projects/dsbench/
 comment: Small Python library that provides a decorator function which benchmarks functions.
-made: true
+is_project: true
+with_others: false
 ---
 
 This small library provides a decorator function that benchmarks functions.

@@ -59,11 +59,6 @@ minima:
     - { platform: github, user_url: "https://github.com/demonicsavage" }
     - { platform: twitter, user_url: "https://twitter.com/demonic_savage_" }
 
-header_pages:
-  - mikan.markdown
-  - dsbench.markdown
-  - contact.markdown
-
 defaults:
   - scope:
       path: ""

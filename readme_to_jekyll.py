@@ -49,7 +49,8 @@ def add_front_matter(content, title, comment, repo_name):
     modified_content += "title: {}\n".format(title)
     modified_content += "permalink: /projects/{}/\n".format(repo_name.split("/")[1])
     modified_content += "comment: {}\n".format(comment)
-    modified_content += "made: true\n"
+    modified_content += "is_project: true\n"
+    modified_content += "with_others: false\n"
     modified_content += "---\n"
     modified_content += content
     return modified_content
