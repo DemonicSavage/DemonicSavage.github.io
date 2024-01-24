@@ -35,7 +35,7 @@
   }
 
   .dropdown-content a:hover {
-      color: #FFFFFF;
+      color: #FFFFFF !important;
       background-color: $link-hover-color;
   }
 
@@ -50,7 +50,7 @@
   }
 
   .dropdown-link {
-    color: $text-color;
+    color: $text-color !important;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
