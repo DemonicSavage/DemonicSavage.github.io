@@ -64,3 +64,5 @@ defaults:
       path: ""
     values:
       wide: false
+
+include: [".well-known"]
