@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Certificate</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 20px;
+            }
+            .certificate {
+                background-color: #fff;
+                border: 1px solid #ccc;
+                padding: 20px;
+                text-align: center;
+                max-width: 600px;
+                margin: auto;
+            }
+            h1 {
+                color: #333;
+            }
+            p {
+                font-size: 18px;
+            }
+            .signature {
+                margin-top: 50px;
+                font-size: 16px;
+                color: #555;
+            }
+            .date {
+                margin-top: 20px;
+                font-size: 16px;
+                color: #555;
+            }
+        </style>
+        <script>
+            var currentUrl = new URL(window.location.href);
+            var params = new URLSearchParams(currentUrl.search);
+            var name = params.get('statement');
+            var date = params.get('date');
+            var signature = params.get('signature');
+            var certificateText = "This certificate proves that the following statement is true:";
+        </script>
+    </head>
+    <body>
+        <div class="certificate">
+            <h1>Certificate of Proof</h1>
+            <p id="certificateText"></p>
+            <p id="statement"></p>
+            <div class="signature" id="signature"></div>
+            <div class="date" id="date"></div>
+        </div>
+
+        <script>
+            document.getElementById('certificateText').innerText = certificateText;
+            document.getElementById('statement').innerText = name;
+            document.getElementById('signature').innerText = "Signature: " + signature;
+            document.getElementById('date').innerText = "Date: " + date;
+        </script>
+</html>
