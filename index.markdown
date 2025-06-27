@@ -5,5 +5,5 @@
 layout: index
 description:
     - I make stuff sometimes. Mostly I make software.
-    - He/they.
+    - He/she/they/any.
 ---
